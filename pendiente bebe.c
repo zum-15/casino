@@ -28,6 +28,16 @@ int main() {
 						printf("saliendo del sistema\n");
 						scanf()
 						break;
+
+		            case 5:
+						printf("saliendo del sistema + 16%\n");
+						scanf()
+						break;
+
+		                 case 6:
+						printf("promrdio total de resto\n");
+						scanf()
+						break;
 						
 						default:
 							printf("opcion invalida\n");
